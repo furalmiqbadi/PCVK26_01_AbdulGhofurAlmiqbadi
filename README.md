@@ -2,21 +2,21 @@
 <h1 align="center">Pengolahan Citra dan Visi Komputer</h1>
 
 <div align="center">
-  <table border="0" cellpadding="6" cellspacing="0" style="border: none; border-collapse: collapse;">
+  <table border="1" cellpadding="6" cellspacing="0" style="border-collapse: collapse; border: 1px solid black;">
     <tr>
-      <td align="right" style="border: none;"><b>Nama</b></td>
-      <td align="center" style="border: none;">:</td>
-      <td align="left" style="border: none;"><code>Abdul Ghofur Almiqbadi</code></td>
+      <td style="border: none; text-align: left;"><b>Nama</b></td>
+      <td style="border: none; text-align: left;">:</td>
+      <td style="border: none; text-align: left;"><code>Abdul Ghofur Almiqbadi</code></td>
     </tr>
     <tr>
-      <td align="right" style="border: none;"><b>NIM</b></td>
-      <td align="center" style="border: none;">:</td>
-      <td align="left" style="border: none;"><code>244107020155</code></td>
+      <td style="border: none; text-align: left;"><b>NIM</b></td>
+      <td style="border: none; text-align: left;">:</td>
+      <td style="border: none; text-align: left;"><code>244107020155</code></td>
     </tr>
     <tr>
-      <td align="right" style="border: none;"><b>Kelas</b></td>
-      <td align="center" style="border: none;">:</td>
-      <td align="left" style="border: none;"><code>TI-3F</code></td>
+      <td style="border: none; text-align: left;"><b>Kelas</b></td>
+      <td style="border: none; text-align: left;">:</td>
+      <td style="border: none; text-align: left;"><code>TI-3F</code></td>
     </tr>
   </table>
 </div>
